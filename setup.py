@@ -7,4 +7,4 @@ setup(name='clean-folder',
       author='3Seryoga',
       license='MIT',
       packages=find_namespace_packages(),
-      entry_points={'console_scripts': ['clean-folder = clean_folder.clean:def main:']})
+      entry_points={'console_scripts': ['clean-folder = clean_folder.clean:main']})
